@@ -95,7 +95,7 @@ Googleマップのようなナビ・マップアプリとしてはほとんど�
 
 札幌から函館までの実際の探索です。海・森林・川・湖に加え、通過時刻・太陽・天気を考慮して候補を比較する流れを示しています。
 
-https://github.com/user-attachments/assets/1eb10c6c-3b0d-4dad-ab50-349dd7b00ebd
+https://github.com/user-attachments/assets/5ead21e7-4626-4da1-9603-89db8a8043ac
 
 約2分・音声なし。実際の探索結果を可視化した動画で、車載画面の録画ではありません。
 
